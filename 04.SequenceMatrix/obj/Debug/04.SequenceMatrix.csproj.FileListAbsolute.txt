@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\04.SequenceMatrix\bin\Debug\04.SequenceMatrix.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\04.SequenceMatrix\bin\Debug\04.SequenceMatrix.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\04.SequenceMatrix\bin\Debug\04.SequenceMatrix.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\04.SequenceMatrix\obj\Debug\04.SequenceMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\04.SequenceMatrix\obj\Debug\04.SequenceMatrix.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\04.SequenceMatrix\obj\Debug\04.SequenceMatrix.pdb
