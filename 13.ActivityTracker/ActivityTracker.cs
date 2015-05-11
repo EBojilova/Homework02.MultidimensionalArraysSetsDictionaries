@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -7,13 +7,15 @@ class ActivityTracker
 {
     static void Main(string[] args)
     {
+        DateTimeFormatInfo format =CultureInfo.InvariantCulture.DateTimeFormat;
         var activity = new SortedDictionary<int, SortedDictionary<string, int>>();
         int n = int.Parse(Console.ReadLine());
         string[] input;
+        DateTime dt;
         for (int i = 0; i < n; i++)
         {
             input = Console.ReadLine().Split(' ');
-            DateTime dt = DateTime.ParseExact(input[0], "dd/MM/yyyy", CultureInfo.InvariantCulture);
+            dt = DateTime.ParseExact(input[0], "dd/MM/yyyy", format);
             int month = dt.Month;
             if (!activity.Keys.Contains(month))
             {
